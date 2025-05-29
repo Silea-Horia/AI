@@ -1,5 +1,7 @@
-Function,Encoding,Comparison,T-statistic,P-value
-Bukin,binary,one_point vs. two_point,0.05109928471057645,0.9594795281869358
-Bukin,real,arithmetic vs. blx,2.6959086692571463,0.011539573971527821
-Drop-Wave,binary,one_point vs. two_point,-0.9955495562421535,0.3242770024978042
-Drop-Wave,real,arithmetic vs. blx,3.2962791462895975,0.002208899169800967
+Function,Comparison Type,Comparison,T-statistic,P-value
+Bukin,Representation,Binary vs. Real,3.592547663077217,0.0006231096883129027
+Drop_Wave,Representation,Binary vs. Real,3.805619118419406,0.00028253584261884
+Bukin,Crossover (Binary),One-Point vs. Two-Point,0.05109928471057645,0.9594795281869358
+Bukin,Crossover (Real),Arithmetic vs. BLX,2.6959086692571463,0.011539573971527821
+Drop_Wave,Crossover (Binary),One-Point vs. Two-Point,-0.9955495562421535,0.3242770024978042
+Drop_Wave,Crossover (Real),Arithmetic vs. BLX,3.2962791462895975,0.002208899169800967
